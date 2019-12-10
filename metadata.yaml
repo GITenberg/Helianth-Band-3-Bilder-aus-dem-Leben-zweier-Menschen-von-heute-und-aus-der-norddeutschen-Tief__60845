@@ -1,5 +1,8 @@
 _repo: Helianth-Band-3-Bilder-aus-dem-Leben-zweier-Menschen-von-heute-und-aus-der-norddeutschen-Tief__60845
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60845-h/images/cover.jpg
 creator:
   author:
     agent_name: Schaeffer, Albrecht
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '49532'
     url: http://www.gutenberg.org/2009/agents/49532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60845#Helianth-Band-3-Bilder-aus-dem-Leben-zweier-Menschen-von-heute-und-aus-der-norddeutschen-Tief_
 gutenberg_issued: '2019-12-04'
 gutenberg_type: Text
 identifiers:
